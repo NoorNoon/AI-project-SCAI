@@ -1,0 +1,8 @@
+path: C:/Users/zsaff/PycharmProjects/PythonProject2/Human-Positions-7
+
+train: train/images
+val: valid/images
+
+nc: 5
+names: ['human','standing','sitting','lying','Conscious']
+

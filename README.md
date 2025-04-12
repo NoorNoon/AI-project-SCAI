@@ -105,7 +105,7 @@ You can also try the web application directly without downloading
 or setting up anything, via the following link:
 
 [Access the Smart Stadium Web App] (https://v0.dev/chat/data-analysis-app-kvpxeZxnc4F )
-  We used  to model to analyze emotion 
+  We used two model to analyze emotion 
 an open source for emotion analysis and we built another one from scratch
 https://github.com/ArnabKumarRoy02/ResEmoteNet   
 
